@@ -41,4 +41,4 @@ This script is intended to be executed from Azure Data Factory, where the values
 - **Power BI Errors:** In case of errors during the Power BI dataset update, consult the Power BI service for more details about the issue.
 
 
-Feel free to reach out to Diego Mendes Brasil at m.diegobrasil@outlook.com if you encounter any issues or have any questions. We wish you success in your data processing!
+Feel free to reach out to Diego Mendes Brasil at m.diegobrasil@outlook.com if you encounter any issues or have any questions. 
